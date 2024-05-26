@@ -35,7 +35,7 @@ deno run --allow-net --allow-read 4.tpt.ts
 - Lucid - https://lucid.spacebudz.io
 - Blockfrost - https://blockfrost.io
 - node - https://nodejs.org/en/download/
-- deno - https://deno.land/manual@v1.29.1/getting_started/installation
+- deno - https://deno.land/manual@v1.29.1/getting_started/installation -> Installieren mit: brew install deno (macos) oder curl -fsSL https://deno.land/install.sh | sh (Linux/WSL)
 
 - Analyse mit 
 https://preview.cexplorer.io/address/addr_test1vr3rqxlv0cevs6pvh6jc6gxg8etrgnzy4c3m8f4a3fx78rqzepsyn#data
