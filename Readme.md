@@ -1,6 +1,6 @@
 ## Cardano TX Sandbox
 
-### Installation und Prerequesites
+### Installation und Prerequisites
 Im ersten Schritt wird dieses Github-Repository in eine lokale Umgebung geklont, in der aktiv gearbeitet werden kann.
 ```
 git clone https://github.com/anonetics/cardanotestbox
